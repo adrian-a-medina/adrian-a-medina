@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @adrian-a-medina
-- 🧠 I’m interested in Psychopathology, Epigenetics, Neurodevelopment, Connectomics, & Psychedelics!
-- 📊 I’m currently learning more about data science, analytics, and methodology alongside expanding on my knowledge base of neuroimaging and psychopharmacology.
-- 🤝🏽 I’m looking to collaborate on clinical research projects that align with any of the interests I listed above!
-- 📫 How to reach me @[amedina1@g.harvard.edu](url)
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I'm a huge horror movie enthusiast!👻
+Hi there! I'm Adrián, a brain science enthusiast 👋🏽
+🧠 Sr. Clinical RA in the Applied Neuroimaging Statistics Research Laboratory & the Computational Psychopathology Laboratory at McLean Hospital/Harvard Medical School.
 
+🧪 I’m interested in Psychopathology, Epigenetics, Neurodevelopment, Connectomics, & Psychedelics.
+
+🎓 MPH in Social & Behavioral Sciences from Harvard T.H. Chan School of Public Health, EdM in Human Development from Harvard Graduate School of Education.
+
+🌱 Currently learning: Neuroimaging Analysis, Machine Learning, R/Python/Unix Coding
+
+💬 Love to talk about: astrology, developmental cognitive neuroscience, population mental health, ADEIB.
+
+😄 Pronouns: they/them
+
+⚡ Fun fact: I'm also a huge horror movie enthusiast.👻
 <!---
 adrian-a-medina/adrian-a-medina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
