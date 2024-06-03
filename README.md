@@ -2,7 +2,7 @@ Hi there! I'm Adrián, a brain science enthusiast 👋🏽
 
 🧠 Sr. Clinical RA in the Applied Neuroimaging Statistics Research Laboratory & the Computational Psychopathology Laboratory at McLean Hospital/Harvard Medical School.
 
-🧪 I’m interested in Psychopathology, Epigenetics, Neurodevelopment, Connectomics, & Psychedelics.
+🧪 I’m interested in Psychopathology, Neurodevelopment, Connectomics, Epigenetics, & Psychedelics.
 
 🎓 MPH in Social & Behavioral Sciences from Harvard T.H. Chan School of Public Health, EdM in Human Development from Harvard Graduate School of Education.
 
